@@ -1,4 +1,4 @@
-# Case Study: IT User Onboarding Automation
+# Case Study: IT Software Onboarding Automation
 
 
 ## Problem Statement
