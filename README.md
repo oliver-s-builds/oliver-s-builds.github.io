@@ -6,7 +6,7 @@ Bridging technical depth and strategy to ship complex projects at scale.
 
 ## About Me
 
-I'm a PM with 4+ years managing complex, interdependent technical projects in a nonprofit environment. I think through how pieces fit together — technically and organizationally — to solve real constraints.
+I am a PM with 4+ years managing complex, interdependent technical projects in a nonprofit environment. I think through how pieces fit together — technically and organizationally — to solve real constraints.
 
 **Right now:** Pursuing a Master's in Computer Science at Tufts University while actively looking for TPM and Solution Architecture roles.
 
