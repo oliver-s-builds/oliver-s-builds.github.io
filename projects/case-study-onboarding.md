@@ -10,11 +10,11 @@ I led the project end-to-end. I mapped the workflow, identified automation oppor
 and IT on technical requirements and rolled out the process with the HR and IT teams.
 
 ## Stack
-Microsoft List: Track employee hires, changes, and offboarding
-Microsoft List Form: HR entry of data
-PowerAutomate and Workato Flows: Automate Employee data changes to Workato
-Workato: SSO platform for organizational access
-Slack: Automated alerts to a staff updates channel for IT and HR
+- Microsoft List: Track employee hires, changes, and offboarding
+- Microsoft List Form: HR entry of data
+- PowerAutomate and Workato Flows: Automate Employee data changes to Workato
+- Workato: SSO platform for organizational access
+- Slack: Automated alerts to a staff updates channel for IT and HR
 
 ## Approach
 1. **Mapped current state** — interviewed IT and HR, documented current manual steps
