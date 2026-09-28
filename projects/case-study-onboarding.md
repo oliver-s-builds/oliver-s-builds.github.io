@@ -33,6 +33,9 @@ and IT on technical requirements and rolled out the process with the HR and IT t
 - **Repeatable process** — new hires onboarded consistently across departments
 
 ## Learnings
-Automation isn't about replacing people — it's about removing tedium so they can focus on 
-human parts of onboarding (mentoring, culture fit, training). The real win was freeing 
-the IT staff to support the organization with challenges instead of cranking through manual entry.
+Key to success is ensuring appropriate scope and timeline and a minimum viable solution that checks
+high-priority requirements for key stakeholders. Ensuring the implemented systems meets the needs of the
+stakeholders while also aligning with organizational strategic direction.
+
+And the real win was freeing the IT staff to support the organization with challenges 
+instead of cranking through manual entry.
