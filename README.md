@@ -37,7 +37,7 @@ I'm a PM with 4+ years managing complex, interdependent technical projects in a 
 
 **Certifications**
 - Project Management Professional (PMP)
-- Certified Scrum Product Owner (CSPO/PSPO I)
+- Certified Scrum Product Owner (PSPO I)
 
 **Education**
 - BA, UC Berkeley
