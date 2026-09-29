@@ -37,5 +37,5 @@ Key to success is ensuring appropriate scope and timeline and a minimum viable s
 high-priority requirements for key stakeholders. Ensuring the implemented systems meets the needs of the
 stakeholders while also aligning with organizational strategic direction.
 
-And the real win was freeing the IT staff to support the organization with challenges 
+The real win was freeing the IT staff to support the organization with challenges 
 instead of cranking through manual entry.
