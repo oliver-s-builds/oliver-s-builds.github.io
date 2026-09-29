@@ -1,4 +1,4 @@
-# Case Study: IT Software Onboarding Automation
+# Case Study: IT Software Provisioning Automation
 
 
 ## Problem Statement
