@@ -20,9 +20,8 @@ I am a PM with 4+ years managing complex, interdependent technical projects in a
 
 ## Case Studies
 
-- [Automating User Onboarding](projects/case-study-onboarding.md) — 75% reduction in admin overhead
-- [Enterprise Data Warehouse Build](projects/case-study-data-warehouse.md) — *Coming soon*
-- [Financial Systems Implementation](projects/case-study-financial-systems.md) — *Coming soon*
+- [Automating User Onboarding](projects/case-study-onboarding.md)
+- [Reporting Schema Drift](projects/reporting-schema-drift-process.md)
 
 ---
 
