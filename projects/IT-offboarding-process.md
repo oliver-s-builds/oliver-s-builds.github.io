@@ -16,7 +16,7 @@
 
 ### Roadmap and Timelines
 - Determined high level timelines for work
-![Roadmap]
+![Roadmap](../IT-roadmap.png)
 
 ### Design
 - Sample draft for designing the IT asset tracker in the company CRM
