@@ -13,6 +13,7 @@
 - I generated the project plan with the initiatives and deliverables to accomplish
 - In this Work Breakdown Structure, I visualize and document the deliverables and sub deliverables
 - I broke down the deliverables into subtasks that informed the project timeline
+<br>
 ![Work Breakdown Structure](../IT-offboard-wbs.png)
 
 
