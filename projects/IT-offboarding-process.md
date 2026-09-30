@@ -20,12 +20,14 @@
 ### Roadmap and Timelines
 - Based on the scope and deliverables, I generated a high level roadmap for accomplishing each initiative
 - In Asana, I documented the tasks and subtasks with detailed timelines and responsible stakeholders
+  
 ![Roadmap](../IT-roadmap.png)
 
 ### Design
 - During the project execution and design stage, I worked with IT to draft a data structure
   that meets IT and the company's high-priority requirements and is technically capable to build
 - *Example:* Here is a sample draft for designing the IT asset tracker in the company CRM
+  
 ![IT Assets Data Schema](../IT-data-schema.png)
 
 ### Solutions
