@@ -23,6 +23,12 @@
   
 ![Roadmap](../IT-roadmap.png)
 
+### Project Plan
+- For each initiative I followed a waterfall structure for the project stages, but utilized recurring
+  bi-weekly standing meetings to adjust the plan and incorporate an agile approach
+
+![Project Plan](../IT-plan.png)
+
 ### Design
 - During the project execution and design stage, I worked with IT to draft a data structure
   that meets IT and the company's high-priority requirements and is technically capable to build
@@ -30,6 +36,19 @@
   
 ![IT Assets Data Schema](../IT-data-schema.png)
 
-### Solutions
+## Solutions
+- Three initiatives - the IT Asset Tracker, HR IT Team Process, and the Software Deprovisioning process -
+  were fully implemented by the Fall of 2023
+- The IT policies were implemented the following year in 2024
+
+![IT Solutions](../IT-solutions.png)
+
+### Impact
+- The impact and lessons learned were positive from the IT offboarding initiatives
+- After completing these projects I received several requests from our other technology teams
+  to work on process improvement and generated a framework for incoming requests and prioritizing my work
+
+![Business Impact](../IT-results.png)
+
 
 
