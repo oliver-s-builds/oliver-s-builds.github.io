@@ -20,9 +20,9 @@ I am a PM with 4+ years managing complex, interdependent technical projects in a
 
 ## Case Studies
 
+- [IT Offboarding Process](projects/IT-offboarding-process.md)
 - [Automating User Onboarding](projects/case-study-onboarding.md)
 - [Reporting Schema Drift](projects/reporting-schema-drift-process.md)
-- [IT Offboarding Process](projects/IT-offboarding-process.md)
 
 ---
 
