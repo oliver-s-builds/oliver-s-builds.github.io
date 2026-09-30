@@ -11,7 +11,7 @@
 ## Methodology
 ### Project Plan and Work Breakdown Structure
 - Broke down the deliverables and sub deliverables
-![Work Breakdown Structure]
+![Work Breakdown Structure](./IT Inventory Database Schema - Database Schema.png)
 
 
 ### Roadmap and Timelines
