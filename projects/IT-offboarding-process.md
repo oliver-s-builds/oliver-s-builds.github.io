@@ -1,4 +1,4 @@
-IT Offboarding Process
+# IT Offboarding Process
 
 ## Pain Points
 - Inconsistant software deprovisioning (potential security risk)
