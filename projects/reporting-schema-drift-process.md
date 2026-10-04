@@ -1,4 +1,4 @@
-# Salesforce Schema Drift Process
+# Reporting Schema Drift Project
 
 ## Problem Statement
 - Reports contained missing or outdated information
@@ -27,11 +27,6 @@ Salesforce changes are communicated and reports and dashboards are maintained.
 the new process to foster adoption and establish the formal process.
 4. **Hypercare and Feedback** - Provided follow up training and gathered feedback on the new
 process to learn and continuously improve post project. 
-
-## Key Artifacts
-- Add: Kick off deck with project plan
-- Add: WBS (Work Breakdown Structure)
-- Add: Post project objective metrics / stats
 
 # Solution
 Data Analysts alerted of Salesforce changes and recieve reports on relevant changes that 
