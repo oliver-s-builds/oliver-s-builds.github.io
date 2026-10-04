@@ -1,4 +1,4 @@
-# Case Study: IT Software Provisioning Automation
+# IT Software Provisioning Project
 
 
 ## Problem Statement
