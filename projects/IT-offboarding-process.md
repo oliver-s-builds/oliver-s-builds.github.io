@@ -34,7 +34,7 @@
   that meets IT and the company's high-priority requirements and is technically capable to build
 - *Example:* Here is a sample draft for designing the IT asset tracker in the company CRM
   
-![IT Assets Data Schema](../IT-data-schema.png)
+![IT Assets Data Schema](../IT-Schema.png)
 
 ## Solutions
 - Three initiatives - the IT Asset Tracker, HR IT Team Process, and the Software Deprovisioning process -
