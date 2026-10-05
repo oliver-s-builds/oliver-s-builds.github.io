@@ -18,7 +18,7 @@ I am a PM with 4+ years managing complex, interdependent technical projects in a
 
 ---
 
-## Case Studies
+## Projects
 
 - [IT Offboarding Process](projects/IT-offboarding-process.md)
 - [IT Software Provisioning](projects/software-provisioning-lifecycle.md)
